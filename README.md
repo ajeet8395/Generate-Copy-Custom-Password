@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://postimg.cc/vgzjpX1R" alt="Project Banner">
+      <img src="https://i.postimg.cc/x8D2N4nd/screencapture-localhost-5173-2024-10-15-13-05-29.png" alt="Project Banner">
   <br />
 
   <div>
